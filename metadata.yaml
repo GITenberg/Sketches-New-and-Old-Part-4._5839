@@ -1,0 +1,32 @@
+_repo: Sketches-New-and-Old-Part-4._5839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories, American'
+- GITenberg
+tableOfContents: The late Benjamin Franklin -- Mr. Bloke's item -- A medieval romance
+  -- Petition concerning copyright -- After-dinner speech -- Lionising murderers --
+  A new crime -- A curious dream -- A true story.
+title: Sketches New and Old, Part 4.
+url: http://www.gutenberg.org/ebooks/5839
